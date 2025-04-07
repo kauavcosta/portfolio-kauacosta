@@ -1,0 +1,14 @@
+.libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+body{
+    background-color: #8d2a0ca9;
+}
+
+h1{
+    color: rgba(255, 150, 80, 0.712);
+    text-align: center;
+    font-family: "Libre Baskerville";
+}
